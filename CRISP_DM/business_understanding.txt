@@ -1,0 +1,13 @@
+Objective:
+Improve operational efficiency and customer satisfaction by analyzing key metrics and uncovering insights across DART, LUAS, and BUS networks.
+
+Key Business Questions:
+1. Connectivity: How well are key urban and suburban areas connected?
+2. Usage Patterns: What are the peak usage times for each transport mode?
+3. Accessibility: Which areas have the most accessible stations and services?
+4. Performance Analysis: How efficient are BUS routes and LUAS stations?
+5. Integration Opportunities: Can schedules be optimized for better connectivity?
+
+Use Case Example:
+- Passenger Journey Mapping
+- Operational Planning
